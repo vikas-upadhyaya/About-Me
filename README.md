@@ -1,4 +1,4 @@
-# vikas-upadhyaya 👋
+# About Me 👋
 Hi, I'm Vikas Upadhyaya — currently working as an Associate at Bayer, specializing in Accounts Payable and SAP-based invoice processing. I’m passionate about leveraging data to solve real-world problems and I'm actively transitioning into the Data Analytics domain.
 
 🔍 Interests
